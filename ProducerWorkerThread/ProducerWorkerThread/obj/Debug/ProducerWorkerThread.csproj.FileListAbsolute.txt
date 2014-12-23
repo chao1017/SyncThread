@@ -1,0 +1,6 @@
+D:\GitHub\Thread2\ProducerWorkerThread\ProducerWorkerThread\bin\Debug\ProducerWorkerThread.exe.config
+D:\GitHub\Thread2\ProducerWorkerThread\ProducerWorkerThread\bin\Debug\ProducerWorkerThread.exe
+D:\GitHub\Thread2\ProducerWorkerThread\ProducerWorkerThread\bin\Debug\ProducerWorkerThread.pdb
+D:\GitHub\Thread2\ProducerWorkerThread\ProducerWorkerThread\obj\Debug\ProducerWorkerThread.csprojResolveAssemblyReference.cache
+D:\GitHub\Thread2\ProducerWorkerThread\ProducerWorkerThread\obj\Debug\ProducerWorkerThread.exe
+D:\GitHub\Thread2\ProducerWorkerThread\ProducerWorkerThread\obj\Debug\ProducerWorkerThread.pdb
